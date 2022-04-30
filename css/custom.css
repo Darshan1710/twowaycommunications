@@ -1,0 +1,132 @@
+.view_more{
+	padding: 0px 10px!important;
+	text-transform : Capitalize;
+	font-size: 10px;
+	background: #090163;
+    color: #fff;
+}
+.banner{
+/*	padding: 0px!important;*/
+margin-top: 3%;
+}
+p.error {
+    text-align: left;
+    color: red;
+    margin-top: 1%;
+}
+.input-border-bottom{
+	margin-bottom: 0px!important;
+	margin-top: 20px!important;
+}
+input{
+	margin-bottom: 0px!important;
+}
+button.btn.view_more:hover {
+    background: #fff;
+    color: #090163;
+}
+/*.inner-link:hover{
+	color: black!important;
+}*/
+.vc_custom_14981360137091{
+	background-color: #fff !important;
+	
+}
+.vc_custom_15071819802191{
+	margin-bottom: 5%!important;	
+}
+.custom-section{
+	padding-bottom: 0px!important;
+}
+.vc_custom_15090186664933{
+	padding: 3%!important;
+}
+#about{
+	padding-bottom: 20px!important;
+}
+.our-service_icon{
+	width: 39px;
+	height: 32px;
+}
+h2.alt-font.letter-spacing-minus-3.margin-10px-bottom {
+    color: #ff214f;
+}
+.download-button{
+	margin-top: -5%;
+}
+@media only screen and (max-width: 600px) {
+  .clearfixed {
+    content: "";
+  clear: both;
+  display: table;
+  }
+  .download-button{
+	margin-top: 0%;
+}
+  .banner{
+/*	padding: 0px!important;*/
+margin-top: 20%;
+}
+.team-style-2 figure .team-member-position {
+     position: inherit!important; 
+}
+.team-style-2 figure:hover .team-member-position {
+	top: 50%;
+	margin: 0
+}
+
+}
+@media only screen and (min-width: 600px) {
+  .how_we_padding{
+  	padding-top: 0px!important;
+  }
+
+}
+.text-red{
+	color: #ff214f;
+}
+.industry_icon{
+	display: inherit!important;
+}
+.icon-round-small-service{
+	display: table-cell;
+
+    margin: 0 auto;
+    text-align: center;
+    vertical-align: middle;
+
+    font-size: 32px;
+}
+.feature-box-8 p {
+    margin-bottom: 0px;
+}
+.vc_custom_151020456703412{
+	padding: 13% 0%;
+}
+.text-small > p {
+    padding: 0px;
+    margin: 0px;
+    text-align: left;
+    margin-left: 10px;
+}
+.team-style-2 figure:hover figcaption .overlay-content{
+	cursor: pointer;
+}
+.team-style-2 figure .team-member-position{
+	cursor: pointer;
+}
+.vc_custom_1509703581230123{
+	padding-top: 50px !important;
+    padding-right: 100px !important;
+    padding-bottom: 50px !important;
+    padding-left: 50px !important;
+}
+.panel-body > ul > li {
+    color: black;
+}
+.panel-body > p{
+	color: black;
+}
+
+
+
