@@ -127,6 +127,10 @@ margin-top: 20%;
 .panel-body > p{
 	color: black;
 }
+#myButton > .venom-button-button{
+	width: 60px!important;
+	height: 60px!important;
+}
 
 
 

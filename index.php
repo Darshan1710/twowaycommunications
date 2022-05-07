@@ -1305,7 +1305,7 @@
                                  <li>Review of the original document and all specifications by translators</li>
                                  <li>Preparation of appropriate glossary </li>
                                  <li>Translation of text to prepare a rough draft</li>
-                                 <li>Review of nuances, idioms, phrases, specifications, and cultural appropriations.</li>
+                                 <li>Review of nouns, idioms, phrases, specifications, and cultural appropriations.</li>
                                  <li>Preparing final draft</li>
                               </ul>
                               </p>
@@ -1413,7 +1413,7 @@
                   <p role=status aria-live=polite aria-atomic=true></p>
                   <ul></ul>
                </div>
-               <form action="#" method=post class="wpcf7-form init" novalidate=novalidate data-status=init id="enquiry">
+                <form action="#" method=post class="wpcf7-form init" novalidate=novalidate data-status=init id="enquiry">
                   <div> <span class="wpcf7-form-control-wrap contact-name">
                      <input type=text id="name" name="name"  class="wpcf7-form-control wpcf7-text input-border-bottom" aria-required=true aria-invalid=false placeholder=Name*></span><br> 
                      <span class="wpcf7-form-control-wrap contact-email">
@@ -1424,7 +1424,8 @@
                      <input type=submit value="send message" class="wpcf7-form-control has-spinner wpcf7-submit btn btn-small btn-deep-pink margin-30px-top xs-margin-three-top">
                   </div>
                   <div class=wpcf7-response-output aria-hidden=true></div>
-               </form>
+               </form> 
+               
             </div>
          </div>
       </div>
