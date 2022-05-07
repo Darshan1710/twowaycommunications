@@ -86,6 +86,5 @@ if (isset($_POST) && !empty($_POST)) {
         echo json_encode($returnArr);
     }
 }
-//
 	
 
