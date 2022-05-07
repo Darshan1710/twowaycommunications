@@ -1,9 +1,8 @@
 <?php
 
-$db = mysqli_connect('localhost', 'root', '', 'twoway');
+include 'db.php';
 
 use PHPMailer\PHPMailer\PHPMailer;
-use PHPMailer\PHPMailer\SMTP;
 use PHPMailer\PHPMailer\Exception;
 
 require_once "vendor/autoload.php";
